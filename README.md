@@ -10,6 +10,8 @@
 * E6-kNN 情感文本分类器
 * E7-利用pytorch框架搭建神经网络实现中药图片分类
 * E8-使用 Deep Q-learning Network(DQN) 算法玩解决 CartPole-v1 游戏
+  ![image](https://github.com/user-attachments/assets/7c76c5d9-ccad-4912-a426-18586e270224)
+
 * E9-在 QNLI 数据集子集上实现文本蕴含识别模型
   ![image](https://github.com/user-attachments/assets/11a47296-5b1f-49c9-8a5c-af96fc9bae3d)
 
